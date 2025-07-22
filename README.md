@@ -28,3 +28,6 @@ It uses **`localStorage`** to remember the user's selected theme even after refr
 - `style.css` — Styling for both light and dark modes
 - `script.js` — Toggle logic and localStorage implementation
 
+## 📸 App Screenshot
+
+![App Screenshot](./screenshot.png)
